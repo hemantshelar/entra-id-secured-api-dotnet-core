@@ -1,0 +1,1 @@
+﻿[Authentication Provider for Graph Client](https://learn.microsoft.com/en-us/graph/sdks/choose-authentication-providers?tabs=csharp#client-credentials-provider)
